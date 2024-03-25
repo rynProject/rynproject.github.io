@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Prestaterre</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        h2 {
+            margin-top: 40px;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .highlight {
+            background-color: #ffffcc;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+    
+    <p>Prestaterre is committed to protecting the privacy of our users. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website prestaterre.eu, including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the "Site"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the site.</p>
+    
+    <h2>Information We Collect</h2>
+    <p>We may collect personal information that you voluntarily provide to us when expressing an interest in obtaining information about us or our products and services, when participating in activities on the Site or otherwise contacting us. The personal information that we collect depends on the context of your interactions with us and the Site, the choices you make, and the products and features you use. The personal information we collect may include:</p>
+    <ul>
+        <li><strong>Name:</strong> We collect your name when voluntarily submitted by you.</li>
+        <li><strong>Email Address:</strong> We collect your email address when voluntarily submitted by you.</li>
+    </ul>
+    
+    <h2>Use of Your Information</h2>
+    <p>We may use the information we collect for various purposes, including to:</p>
+    <ul>
+        <li>Respond to inquiries and provide support.</li>
+        <li>Send you promotional emails containing information about our services and updates.</li>
+        <li>Improve our website and services based on your feedback.</li>
+    </ul>
+    
+    <h2>Disclosure of Your Information</h2>
+    <p>We will not share, sell, rent, or trade your information with third parties without your consent except as outlined in this Privacy Policy or as required by law.</p>
+    
+    <h2>Security of Your Information</h2>
+    <p>We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.</p>
+    
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We reserve the right to change this Privacy Policy at any time. We will post any changes on this page and, if the changes are significant, we will provide a more prominent notice. Your continued use of the Site after such modifications will constitute your acknowledgment of the modified Privacy Policy and your agreement to abide and be bound by the modified Privacy Policy.</p>
+    
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+    
+    <p>Last Updated: [Insert Date]</p>
+</div>
+
+</body>
+</html>
